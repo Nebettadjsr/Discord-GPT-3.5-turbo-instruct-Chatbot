@@ -1,9 +1,6 @@
 # Discord GPT-4 Chatbot
 This repository contains a Discord chatbot powered by OpenAI's GPT-4 model. It allows you to interact with the AI model within a Discord server. The chatbot listens to messages sent by users and replies using GPT-4, making it a great addition to any server for fun, engaging, and informative conversations.
 
-![image](https://user-images.githubusercontent.com/37600872/226459308-6de92a4e-7665-4a35-9b06-a87d84deae63.png)
-
-<a href="https://github.com/aaronmansfield5/Discord-GPT-4-Chatbot/issues">![Issues](https://img.shields.io/github/issues/aaronmansfield5/Discord-GPT-4-Chatbot?style=flat)</a>
 
 ## Prerequisites
 - <a href="https://nodejs.org/">![](https://img.shields.io/badge/Node.js-v14.0%2B-brightgreen)</a>
@@ -15,8 +12,8 @@ This repository contains a Discord chatbot powered by OpenAI's GPT-4 model. It a
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/aaronmansfield5/discord-gpt-4-chatbot.git
-cd discord-gpt-4-chatbot
+git clone https://github.com/Nebettadjsr/Discord-GPT-3.5-turbo-instruct-Chatbot.git
+cd discord-GPT-3.5-turbo-instruct-Chatbot
 ```
 
 2. Install the required dependencies:
@@ -68,7 +65,6 @@ Feel free to submit issues or pull requests if you find any problems or have sug
 
 <div align="center">
 
-[![Stargazers repo roster for @aaronmansfield5/Discord-GPT-4-Chatbot](https://reporoster.com/stars/dark/aaronmansfield5/Discord-GPT-4-Chatbot)](https://github.com/aaronmansfield5/Discord-GPT-4-Chatbot/stargazers)
-[![Forkers repo roster for @aaronmansfield5/Discord-GPT-4-Chatbot](https://reporoster.com/forks/dark/aaronmansfield5/Discord-GPT-4-Chatbot)](https://github.com/aaronmansfield5/Discord-GPT-4-Chatbot/network/members)
+forked from aaronmansfield5/Discord-GPT-4-Chatbot
 
 <div>
